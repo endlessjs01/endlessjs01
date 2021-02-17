@@ -1,5 +1,5 @@
 # İstatistik
-![Github]  <img align="left" alt="EndlessJS GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=endlessjs01&show_icons=true&theme=radical"/>
+![Github]  <alt="EndlessJS GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=endlessjs01&show_icons=true&theme=radical"/>
 
 
 # HAKKIMDA
