@@ -30,8 +30,8 @@
 ---
 
 
-  <img align="left" alt="DevMDeniz GitHub Stats" src="https://github.com/mrdenizlp/github-stats/blob/master/generated/overview.svg" />
-  <img align="left" alt="DevMDeniz GitHub Stats" src="https://github.com/mrdenizlp/github-stats/blob/master/generated/languages.svg"/>
+  <img align="left" alt="EndlessJS01 GitHub Stats" src="https://github.com/endlessjs01/github-stats/blob/master/generated/overview.svg" />
+  <img align="left" alt="EndlessJS01 GitHub Stats" src="https://github.com/endlessjs01/github-stats/blob/master/generated/languages.svg"/>
  
 <br />
 <br />
