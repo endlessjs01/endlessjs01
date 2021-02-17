@@ -1,5 +1,6 @@
 # İstatistik
-![Github](https://github-readme-stats.vercel.app/api?username=endlessjs01-q&show_icons=true&theme=radical)
+![Github]  <img align="left" alt="EndlessJS GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=endlessjs01&show_icons=true&theme=radical"/>
+
 
 # HAKKIMDA
 * **Genellikle zamanımı bilgisayar başın da ve discord platformunda geçiriyorum.**
