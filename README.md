@@ -28,30 +28,6 @@
 <br />
 
 ---
-
-
-  <img align="left" alt="EndlessJS01 GitHub Stats" src="https://github.com/endlessjs01/github-stats/blob/master/generated/overview.svg" />
-  <img align="left" alt="EndlessJS01 GitHub Stats" src="https://github.com/endlessjs01/github-stats/blob/master/generated/languages.svg"/>
- 
-<br />
-<br />
-
-<br />
-<br />
-
-<br />
-<br />
-
-<br />
-<br />
-
-<br />
-<br />
-
-<br />
-<br />
-
----
  ### Another
   
   <img align="left" alt="EndlessJS01 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=endlessjs01&show_icons=true&theme=radical"/>
