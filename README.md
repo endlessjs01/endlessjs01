@@ -54,8 +54,7 @@
 ---
  ### Another
   
-  <img align="left" alt="EndlessJS01 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=devmdeniz&show_icons=true&theme=radical"/>
-  <img align="left" alt="EndlessJS01 GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmdeniz&layout=compact"/>
+  <img align="left" alt="EndlessJS01 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=endlessjs01&show_icons=true&theme=radical"/>
+  <img align="left" alt="EndlessJS01 GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endlessjs01&layout=compact"/>
 
-[instagram]: https://instagram.com/devmdeniz
-[linkedin]: https://www.linkedin.com/in/deniz-kumcu-081b00187/
+[instagram]: https://instagram.com/berkay.vacc
