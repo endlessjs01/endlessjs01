@@ -1,4 +1,4 @@
-### Hi there, I'm Berkay " Endless " - aka [berkay.vacc][instagram] 👋
+### Hi there, I'm Berkay " Endless " - [berkay.vacc][instagram] 👋
 
 - Welcome to my profile!
 
