@@ -1,16 +1,61 @@
-### Hi there 👋
+### Hi there, I'm Berkay " Endless " - aka [DevMDeniz][instagram] 👋
 
-<!--
-**endlessjs01/endlessjs01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I want to be a Full Stack Developer!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Connect with me:
+
+[<img align="left" alt="berkay.vacc Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Languages:
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<br>
+<br>
+
+### Technologies: 
+<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<br />
+<br />
+
+---
+
+
+  <img align="left" alt="DevMDeniz GitHub Stats" src="https://github.com/mrdenizlp/github-stats/blob/master/generated/overview.svg" />
+  <img align="left" alt="DevMDeniz GitHub Stats" src="https://github.com/mrdenizlp/github-stats/blob/master/generated/languages.svg"/>
+ 
+<br />
+<br />
+
+<br />
+<br />
+
+<br />
+<br />
+
+<br />
+<br />
+
+<br />
+<br />
+
+<br />
+<br />
+
+---
+ ### Another
+  
+  <img align="left" alt="EndlessJS01 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=devmdeniz&show_icons=true&theme=radical"/>
+  <img align="left" alt="EndlessJS01 GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmdeniz&layout=compact"/>
+
+[instagram]: https://instagram.com/devmdeniz
+[linkedin]: https://www.linkedin.com/in/deniz-kumcu-081b00187/
